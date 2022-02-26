@@ -7,6 +7,7 @@
 |---|---|---|---|
 |optimize|opt|优化||
 |batch||批量处理||
+|interval|intvl / inr|时间间隔||
 
 
 
