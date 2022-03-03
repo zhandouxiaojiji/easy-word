@@ -8,6 +8,7 @@
 |optimize|opt|优化||
 |batch||批量处理||
 |interval|intvl / inr|时间间隔||
+|legacy||历史遗留|一般用在兼容旧代码提供的接口，提示这个接口会在不久的将来删除|
 
 
 
