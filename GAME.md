@@ -3,3 +3,4 @@
 |---|---|---|---|
 |vision||视野||
 |radius|r|半径||
+|collision|coll|碰撞||
