@@ -11,6 +11,7 @@
 |legacy||历史遗留|一般用在兼容旧代码提供的接口，提示这个接口会在不久的将来删除|
 |template|tpl / tmpl|模板||
 |segment|seg|段/分段||
+|assembly|assy|集合||
 
 
 附：非常好用的缩写双向查询网站 https://www.abbreviations.com/
