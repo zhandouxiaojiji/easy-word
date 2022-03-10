@@ -12,6 +12,8 @@
 |template|tpl / tmpl|模板||
 |segment|seg|段/分段||
 |assembly|assy|集合||
+|universal|univ|通用的||
+|runtime||运行时|老外们是比较喜欢把跟所有与可执行程序相关的东西，包括库，执行环境等统统称为运行时|
 
 
 附：非常好用的缩写双向查询网站 https://www.abbreviations.com/
