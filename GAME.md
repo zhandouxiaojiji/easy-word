@@ -4,3 +4,5 @@
 |vision||视野||
 |radius|r|半径||
 |collision|coll|碰撞||
+|zoom in||放大||
+|zoom in||缩小||
