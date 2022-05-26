@@ -6,3 +6,4 @@
 |collision|coll|碰撞||
 |zoom in||放大||
 |zoom in||缩小||
+|navigate|navi|导航/寻路||
