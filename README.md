@@ -7,7 +7,8 @@
 |---|---|---|---|
 |optimize|opt|优化||
 |batch||批量处理||
-|interval|intvl / inr|时间间隔||
+|interval|intvl / inr|时间间隔|常用于更新频率|
+|duration|dur|持续时长||
 |legacy||历史遗留|一般用在兼容旧代码提供的接口，提示这个接口会在不久的将来删除|
 |template|tpl / tmpl|模板||
 |segment|seg|段/分段||
