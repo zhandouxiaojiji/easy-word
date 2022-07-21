@@ -17,6 +17,6 @@
 |universal|univ|通用的||
 |runtime||运行时|老外们是比较喜欢把跟所有与可执行程序相关的东西，包括库，执行环境等统统称为运行时|
 |allocate|alloc|分配||
-
+|subtract|sub|减||
 
 
