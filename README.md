@@ -19,4 +19,5 @@
 |allocate|alloc|分配||
 |subtract|sub|减||
 |neighbor|nbr|邻居||
-
+|binary tree|btree|二叉树||
+|quadtree|qtree|四叉树||
