@@ -7,3 +7,5 @@
 |zoom in||放大||
 |zoom out||缩小||
 |navigate|navi|导航/寻路||
+|explore||探索/探险||
+|explorer||探险家/斥候||
