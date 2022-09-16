@@ -9,3 +9,4 @@
 |navigate|navi|导航/寻路||
 |explore||探索/探险||
 |explorer||探险家/斥候||
+|transport|tp|传送||
