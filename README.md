@@ -21,3 +21,4 @@
 |neighbor|nbr|邻居||
 |binary tree|btree|二叉树||
 |quadtree|qtree|四叉树||
+|capacity|cap|容量||
