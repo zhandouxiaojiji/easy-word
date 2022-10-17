@@ -1,6 +1,7 @@
 # 常用命名单词及缩写
 + [英语单词缩写规则](RULE.md)
 + [游戏开发](GAME.md)
++ [计数单位](NUMBER.md)
 
 附：非常好用的缩写双向查询网站 https://www.abbreviations.com/
 
