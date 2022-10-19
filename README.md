@@ -24,3 +24,4 @@
 |quadtree|qtree|四叉树||
 |capacity|cap|容量||
 |matrix|mt/mat/m/mtx|矩阵||
+|reverse||反转(数组)||
