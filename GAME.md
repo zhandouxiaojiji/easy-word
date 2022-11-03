@@ -14,3 +14,5 @@
 |dungeon||副本||
 |gacha||抽卡|日语中扭蛋的音译，Gacha Game即为抽卡游戏的意思|
 |joint||关节/连接处||
+|attribute|attr|属性||
+|bonus||加成|attr bonus属性加成|
