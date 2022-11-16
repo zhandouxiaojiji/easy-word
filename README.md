@@ -25,3 +25,5 @@
 |capacity|cap|容量||
 |matrix|mt/mat/m/mtx|矩阵||
 |reverse||反转(数组)||
+|temporary|tmp/temp|临时||
+|permanent|prem|永久/常驻||
