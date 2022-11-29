@@ -17,3 +17,4 @@
 |attribute|attr|属性||
 |bonus||加成|attr bonus属性加成|
 |challenge|chlg|挑战||
+|refund||退款/返还||
