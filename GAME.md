@@ -18,3 +18,5 @@
 |bonus||加成|attr bonus属性加成|
 |challenge|chlg|挑战||
 |refund||退款/返还||
+|manual|man|手动||
+|automatic|auto|自动||
